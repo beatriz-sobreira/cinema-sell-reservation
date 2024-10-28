@@ -9,3 +9,5 @@ Requisitos do sistema:
   -- Para fazer a reserva, apresente todas as poltronas, caso uma poltrona esteja ocupada informe;
   -- Cancelamento de reserva;
 - Consultar se uma poltrona está ocupada ou não, caso esteja, informe o nome.
+
+Restrições: uso de vetores, arrays, listas, dicionários, classes, interface gráfica e uso excessivo de bibliotecas.
